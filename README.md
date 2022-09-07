@@ -1,4 +1,4 @@
-## Hello Word! 👋
+## Hello World! 👋
 
 - 🌱 I'm currently learning computer for internet;
 - 💬 Ask me about markup languages;
