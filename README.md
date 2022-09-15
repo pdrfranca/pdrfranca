@@ -1,11 +1,12 @@
-<img align="center" alt="Pedro-pic" width="100%" src="https://i.giphy.com/media/26tn33aiTi1jkl6H6/giphy.webp">
+<img align="center" alt="Pedro-pic" width="100%" src="https://preview.redd.it/0bb6dqsiab451.gif?s=b0c65596a54a30708da26669da6e79abf3be1680">
 
-<h1 align="center"> Hello World! 👋 </h1>
+## Hello World! 👋 
 
 - 🌱 I'm currently learning computer for internet;
 - 💬 Ask me about markup languages;
 - 😄 Pronouns: He / His;
 - ⚡ Fun fact: I'm 15 years old and I'm in the first year of high school.
+- 💼 My [email](mailto:pfrutopro@gmail.com)
 
 <div align="right">
 
@@ -22,14 +23,14 @@
   
 </div>
 
-<h2 align="center"> ⚡ Stats ⚡ </h2>
+## ⚡ Stats ⚡ 
 
 <div align="center">
 
-  <img src="https://activity-graph.herokuapp.com/graph?username=pdrfranca&theme=gotham&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=pdrfranca&theme=dracula&bg_color=0f0f0f&hide_border=true" width="100%"/>
   <a href="https://github.com/pdrfranca">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=pdrfranca&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" width="49%"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdrfranca&layout=compact&langs_count=7&theme=gotham" width="49%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pdrfranca&show_icons=true&theme=green&bg_color=0f0f0f&include_all_commits=true&count_private=true&hide_border=true" width="49%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdrfranca&layout=compact&langs_count=7&theme=green&bg_color=0f0f0f&hide_border=true" width="49%"/>
 
 </div>
 
