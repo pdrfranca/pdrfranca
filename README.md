@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently learning computer for internet;
 - 💬 Ask me about markup languages;
-- 😄 Pronouns: He / His;
+- 😄 Pronouns: He / him;
 - ⚡ Fun fact: I'm 15 years old and I'm in the first year of high school;
 - 💼 My [email](mailto:pfrutopro@gmail.com).
 
