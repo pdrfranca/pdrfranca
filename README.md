@@ -1,6 +1,6 @@
-<img align="center" alt="Pedro-pic" width="100%" src="https://preview.redd.it/0bb6dqsiab451.gif?s=b0c65596a54a30708da26669da6e79abf3be1680">
+<img align="center" alt="Pedro-pic" width="100%" src="fundonodr.png">
 
-## Hello World! 👋 
+# Hello World! 👋 
 
 - 🌱 I'm currently learning computer for internet;
 - 💬 Ask me about markup languages;
