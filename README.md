@@ -1,6 +1,6 @@
 <img align="center" alt="Pedro-pic" width="100%" src="11111.gif">
 
-# Hello World! 👋 
+# Hello World! 👋
 
 - 🌱 I'm currently learning computer for internet;
 - 💬 Ask me about markup languages;
@@ -27,8 +27,8 @@
 <div align="center">
 
   <a href="https://github.com/pdrfranca">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pdrfranca&show_icons=true&theme=green&bg_color=0f0f0f&include_all_commits=true&count_private=true&hide_border=true" width="49%"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdrfranca&layout=compact&langs_count=7&theme=green&bg_color=0f0f0f&hide_border=true" width="49%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pdrfranca&show_icons=true&theme=chartreuse-dark&bg_color=0f0f0f&include_all_commits=true&count_private=true&hide_border=true" width="49%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdrfranca&layout=compact&langs_count=7&theme=chartreuse-dark&bg_color=0f0f0f&hide_border=true" width="49%"/>
   </a>
 
 </div>
