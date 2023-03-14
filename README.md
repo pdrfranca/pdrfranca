@@ -36,10 +36,10 @@
 <div style="display: inline_block" align="center"><br>
   
   <a href="https://github.com/pdrfranca">
-  <img align="center" alt="pdr-HTML" height="30" width="40" src="html.png">
-  <img align="center" alt="pdr-CSS" height="30" width="40" src="css.png">
-  <img align="center" alt="pdr-Js" height="30" width="40" src="js.png">
-  <img align="center" alt="pdr-Python" height="30" width="40" src="pyt.png">
+  <img align="center" alt="pdr-HTML" width="40" src="html.png">
+  <img align="center" alt="pdr-CSS" width="40" src="css.png">
+  <img align="center" alt="pdr-Js" width="40" src="js.png">
+  <img align="center" alt="pdr-Python" width="40" src="pyt.png">
   </a>
   
 </div>
