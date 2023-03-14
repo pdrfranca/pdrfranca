@@ -1,11 +1,11 @@
 <img align="center" alt="Pedro-pic" width="100%" src="11111.gif">
 
-# Hello World! 
+# Hello World! <img width="30" src="hi.png" />
 
-- I'm currently learning computer for internet;
-- Ask me about markup languages;
-- Fun fact: I'm 15 years old and I'm in the first year of high school;
-- My [email](mailto:pfrutopro@gmail.com).
+- <img width="20" src="learn.png" /> I'm currently learning computer for internet;
+- <img width="20" src="int.png" /> Ask me about markup languages;
+- <img width="20" src="fun.png" /> Fun fact: I'm 15 years old and I'm in the first year of high school;
+- <img width="20" src="email.png" /> My [email](mailto:pfrutopro@gmail.com).
 
 <div align="right">
 
@@ -22,7 +22,7 @@
   
 </div>
 
-## Stats
+<h2 align="center"> <img width="20" src="spe.png" /> Stats <img width="20" src="spe.png" /> <h2/>
 
 <div align="center">
 
