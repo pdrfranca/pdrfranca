@@ -13,7 +13,7 @@
   <img align="right" alt="Pedro's Instagram" width="30" src="inst.png" />
 </a>
 <a href="https://discord.gg/ztr6Z3qvCD">
-  <img align="right" alt="Pedro's Discord" width="30" src="disc.png" />
+  <img align="right" alt="Pedro's Discord" width="30" src="5.png" />
 </a>
 
 <!--<a href="">
