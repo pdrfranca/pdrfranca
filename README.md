@@ -4,7 +4,7 @@
 
 - <img width="20" src="learn.png" /> I'm currently learning computer for internet;
 - <img width="20" src="int.png" /> Ask me about markup languages;
-- <img width="20" src="fun.png" /> Fun fact: I'm 15 years old and I'm in the first year of high school;
+- <img width="20" src="fun.png" /> Fun fact: I'm 15 years old and I'm in the second year of high school;
 - <img width="20" src="email.png" /> My [email](mailto:pfrutopro@gmail.com).
 
 <div align="right">
