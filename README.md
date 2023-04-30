@@ -27,8 +27,8 @@
 <div align="center">
 
   <a href="https://github.com/pdrfranca">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pdrfranca&show_icons=true&theme=graywhite&bg_color=00ff85&include_all_commits=true&count_private=true&hide_border=true" width="49%"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdrfranca&layout=compact&langs_count=7&theme=graywhite&bg_color=00ff85&hide_border=true" width="49%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pdrfranca&show_icons=true&theme=graywhite&bg_color=f0f0f0&include_all_commits=true&count_private=true&hide_border=true" width="49%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdrfranca&layout=compact&langs_count=7&theme=graywhite&bg_color=f0f0f0&hide_border=true" width="49%"/>
   </a>
 
 </div>
