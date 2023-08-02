@@ -2,20 +2,20 @@
 
 # Hello World! 👋
 
-- 📚 Atualmente estou aprendendo computação para internet.
-- 💬 Pergunte-me sobre linguagens de marcação.
-- 🎉 Curiosidade: Tenho 15 anos e estou no segundo ano do ensino médio.
+- 📚 Atualmente estou aprendendo informática para internet.
+- 💬 Pergunte-me sobre linguagens de programação web.
+- 🎉 Curiosidade: Tenho 16 anos e estou no segundo ano do ensino médio.
 - 📧 Meu [email](mailto:pfrutopro@gmail.com).
 
 [![Instagram](https://img.shields.io/badge/-Instagram-9000ff?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pdr.frnc/)](https://www.instagram.com/pdr.frnc/)
 [![Discord](https://img.shields.io/badge/-Discord-9000ff?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/ztr6Z3qvCD)](https://discord.io/little_house)
 
-## 📊 Estatísticas 📊
+# Estatísticas 📊
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pdrfranca&show_icons=true&theme=dracula&bg_color=9000ff&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/pdrfranca)
 [![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=pdrfranca&layout=compact&langs_count=7&theme=dracula&bg_color=9000ff&hide_border=true)](https://github.com/pdrfranca)
 
-## 💻 Tecnologias 💻
+# Tecnologias 💻
 
 - HTML
 - CSS
