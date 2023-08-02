@@ -7,13 +7,13 @@
 - 🎉 Curiosidade: Tenho 16 anos e estou no segundo ano do ensino médio.
 - 📧 Meu [email](mailto:pfrutopro@gmail.com).
 
-[![Instagram](https://img.shields.io/badge/-Instagram-9000ff?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pdr.frnc/)](https://www.instagram.com/pdr.frnc/)
-[![Discord](https://img.shields.io/badge/-Discord-9000ff?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/ztr6Z3qvCD)](https://discord.io/little_house)
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=instagram&logoColor=D65C7E&link=https://www.instagram.com/pdr.frnc/)](https://www.instagram.com/pdr.frnc/)
+[![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=discord&logoColor=D65C7E&link=https://discord.gg/ztr6Z3qvCD)](https://discord.io/little_house)
 
 # Estatísticas 📊
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pdrfranca&show_icons=true&theme=dracula&bg_color=9000ff&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/pdrfranca)
-[![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=pdrfranca&layout=compact&langs_count=7&theme=dracula&bg_color=9000ff&hide_border=true)](https://github.com/pdrfranca)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pdrfranca&show_icons=true&theme=dracula&bg_color=000000&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/pdrfranca)
+[![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=pdrfranca&layout=compact&langs_count=7&theme=dracula&bg_color=000000&hide_border=true)](https://github.com/pdrfranca)
 
 # Tecnologias 💻
 
