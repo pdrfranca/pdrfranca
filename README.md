@@ -18,8 +18,9 @@
 
 # Tecnologias 💻
 
-- HTML
-- CSS
-- JavaScript
-- Python
-- Dart
+- ![npm](https://img.shields.io/npm/v/javascript?color=black&label=JavaScript&logo=javascript&labelColor=black)
+- ![npm](https://img.shields.io/npm/v/flutter?color=black&label=flutter&logo=flutter&labelColor=black)
+- ![npm](https://img.shields.io/npm/v/python?color=black&label=Python&logo=python&labelColor=black)
+- ![npm](https://img.shields.io/npm/v/dart?color=black&label=Dart&logo=dart&labelColor=black)
+- ![npm](https://img.shields.io/npm/v/react?color=black&label=React&logo=react&labelColor=black)
+- ![npm](https://img.shields.io/npm/v/typescript?color=black&label=Typescript&logo=typescript&labelColor=black)
