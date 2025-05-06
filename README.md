@@ -15,7 +15,7 @@
 # Estatísticas 📊
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pdrfranca&show_icons=true&theme=Green&bg_color=000&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/pdrfranca)
-[![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=pdrfranca&layout=compact&langs_count=7&theme=Green&bg_color=000000&hide_border=true)](https://github.com/pdrfranca)
+[![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=pdrfranca&layout=compact&langs_count=7&theme=Green&bg_color=000&hide_border=true)](https://github.com/pdrfranca)
 
 # Tecnologias 💻
 
