@@ -30,5 +30,5 @@
 ![Python](https://img.shields.io/badge/Python-5865F2?style=for-the-badge&logo=Python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-5865F2?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-5865F2?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-5865F2?style=for-the-badge&logo=openjdk&logoColor=white)
 
