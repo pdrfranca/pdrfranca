@@ -7,7 +7,7 @@
 - 🌱 Always exploring new technologies and software development practices.
 - 👨‍💻 Passionate about building innovative solutions across different platforms.
 - 🚀 Open to contributing to exciting open-source projects.
-- 🔗 Check out my personal portfolio for more details.
+- 🔗 Check out my [personal portfolio](https://pdrfranca.github.io) for more details.
 
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=instagram&logoColor=2C79E0&link=https://www.instagram.com/pdr.frnc/)](https://www.instagram.com/pdr.frnc/)
 [![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=discord&logoColor=2C79E0&link=https://discord.gg/ztr6Z3qvCD)](https://discord.com/invite/3R9UxRSAQ4)
