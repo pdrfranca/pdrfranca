@@ -19,6 +19,7 @@
 
 # Tecnologias 💻
 
+![HTML](https://img.shields.io/badge/html-5865F2?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-5865F2?style=for-the-badge&logo=CSS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-5865F2?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-5865F2?style=for-the-badge&logo=React&logoColor=white)
@@ -28,3 +29,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-5865F2?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-5865F2?style=for-the-badge&logo=Python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-5865F2?style=for-the-badge&logo=mongodb&logoColor=white)
+![PHP](https://img.shields.io/badge/php-5865F2?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+
