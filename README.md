@@ -1,8 +1,10 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Manrope&weight=500&pause=1000&color=2C79E0&width=435&lines=Programmer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Developer+%F0%9F%88%AF;Designer+%F0%9F%8E%A8)](https://git.io/typing-svg)
 
-![Banner do Readme](github.png)
+![Banner do Readme](assets/github.png)
 
 # Hello World! 👋
+
+<img src="assets/frutoctocat.png" alt="Imagem à direita" align="right" width="200" style="margin-left: 20px;" />
 
 - 📚 I'm currently learning various aspects of technology and development.
 - 💬 Ask me about programming languages, tools, and technologies.
