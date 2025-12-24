@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Manrope&weight=500&pause=1000&color=2C79E0&width=435&lines=Programmer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Developer+%F0%9F%88%AF;Designer+%F0%9F%8E%A8)](https://git.io/typing-svg)
 
-![Banner do Readme](assets/github.png)
+![Banner do Readme](https://github.com/pdrfranca/pdrfranca/blob/d03c5e876e74a67a248fea5bcc8cb6f35c75da1d/assets/github.png)
 
 # Hello World! 👋
 
