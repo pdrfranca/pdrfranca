@@ -17,16 +17,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=instagram&logoColor=2C79E0&link=https://www.instagram.com/pdr.frnc/)](https://www.instagram.com/pdr.frnc/)
 [![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=discord&logoColor=2C79E0&link=https://discord.gg/ztr6Z3qvCD)](https://discord.com/invite/3R9UxRSAQ4)
 
-# Estatísticas 📊
-
-<div style="display: flex;" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pdrfranca&show_icons=true&theme=Green&bg_color=000000&include_all_commits=true&count_private=true&hide_border=true" style="width: 49%; height: auto;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdrfranca&layout=compact&langs_count=7&theme=Green&bg_color=000000&hide_border=true" style="width: 44%; height: auto;" />
-</div>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pdrfranca&hide_border=true&background=000000&ring=0A4D8C&fire=0A4D8C&currStreakLabel=0A4D8C&currStreakNum=0A4D8C&sideNums=999999&sideLabels=999999&dates=666666" width="94%" />
-</p>
-
 # Tecnologias 💻
 
 ![HTML](https://img.shields.io/badge/html-5865F2?style=for-the-badge&logo=html5&logoColor=white)
