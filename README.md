@@ -10,37 +10,18 @@
 
 </div>
 
-<br>
+<h1 align="center">
+  Front-end Developer
+</h1>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/HTML5-07111F?style=for-the-badge&logo=html5&logoColor=38EBF8" />
-<img src="https://img.shields.io/badge/CSS3-07111F?style=for-the-badge&logo=css3&logoColor=38EBF8" />
-<img src="https://img.shields.io/badge/JavaScript-07111F?style=for-the-badge&logo=javascript&logoColor=38EBF8" />
-<img src="https://img.shields.io/badge/TypeScript-07111F?style=for-the-badge&logo=typescript&logoColor=38EBF8" />
-<img src="https://img.shields.io/badge/React-07111F?style=for-the-badge&logo=react&logoColor=38EBF8" />
-<img src="https://img.shields.io/badge/Next.js-07111F?style=for-the-badge&logo=next.js&logoColor=38EBF8" />
-<img src="https://img.shields.io/badge/Flutter-07111F?style=for-the-badge&logo=flutter&logoColor=38EBF8" />
-<img src="https://img.shields.io/badge/Python-07111F?style=for-the-badge&logo=python&logoColor=38EBF8" />
-<img src="https://img.shields.io/badge/Firebase-07111F?style=for-the-badge&logo=firebase&logoColor=38EBF8" />
-<img src="https://img.shields.io/badge/Figma-07111F?style=for-the-badge&logo=figma&logoColor=38EBF8" />
-<img src="https://img.shields.io/badge/Git-07111F?style=for-the-badge&logo=git&logoColor=38EBF8" />
-<img src="https://img.shields.io/badge/GitHub-07111F?style=for-the-badge&logo=github&logoColor=38EBF8" />
-
+  <strong>React · Next.js · TypeScript</strong>
 </p>
 
-<h2 align="center">
-
-<font color="#38EBF8">Front-end Developer</font>
-&nbsp;·&nbsp;
-<font color="#38BDF8">React</font>
-&nbsp;·&nbsp;
-<font color="#38EBF8">Next.js</font>
-&nbsp;·&nbsp;
-<font color="#38BDF8">TypeScript</font>
-
-</h2>
-
+<p align="center">
+  Desenvolvedor Front-end focado em criar interfaces modernas,<br>
+  responsivas e orientadas à experiência do usuário.
+</p>
 
 <p align="center">
 
@@ -67,58 +48,65 @@
 
 </p>
 
-<p align="center">
+---
 
-> **“Todos nascem como originais, mas muitos morrem como fotocópias.”**<br>
-> — *Carlo Acutis*
-
-Acredito que pessoas e marcas não foram feitas para serem cópias.
-
-Como Front-end Developer, transformo ideias, histórias e identidades em experiências digitais únicas — criando interfaces que não apenas funcionam, mas comunicam **quem você é**.
-
-Porque código pode ser replicado.
-**Identidade, não.**
-
-</p>
-
-## <font color="#38EBF8">▸ Sobre mim</font>
+## ▸ Sobre mim
 
 Sou **Pedro França**, estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor com foco em **Front-end**.
 
-Gosto de transformar ideias em produtos digitais que combinam **design, tecnologia e experiência do usuário**.
+Meu principal interesse está no desenvolvimento de aplicações e interfaces utilizando **React, Next.js e TypeScript**, combinando desenvolvimento, design e experiência do usuário.
 
-Atualmente, meu foco está em construir projetos que demonstrem não apenas conhecimento de tecnologia, mas também capacidade de **resolver problemas, tomar decisões de produto e entregar interfaces bem estruturadas**.
+Busco transformar ideias em produtos digitais que sejam não apenas visualmente consistentes, mas também **funcionais, responsivos, acessíveis e bem estruturados**.
 
-## <font color="#38EBF8">▸ Projetos</font>
+Atualmente, estou focado em evoluir minhas habilidades através de projetos práticos, explorando **componentização, arquitetura de interfaces, consumo de APIs, responsividade e boas práticas de desenvolvimento**.
+
+> **Código pode ser replicado. Identidade, não.**
+
+---
+
+## ▸ Stack
+
+### Front-end
+
+<p>
+
+<img src="https://img.shields.io/badge/HTML5-07111F?style=for-the-badge&logo=html5&logoColor=38EBF8" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-07111F?style=for-the-badge&logo=css3&logoColor=38EBF8" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-07111F?style=for-the-badge&logo=javascript&logoColor=38EBF8" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-07111F?style=for-the-badge&logo=typescript&logoColor=38EBF8" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-07111F?style=for-the-badge&logo=react&logoColor=38EBF8" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-07111F?style=for-the-badge&logo=next.js&logoColor=38EBF8" alt="Next.js" />
+
+</p>
+
+### Ferramentas & serviços
+
+<p>
+
+<img src="https://img.shields.io/badge/Firebase-07111F?style=for-the-badge&logo=firebase&logoColor=38EBF8" alt="Firebase" />
+<img src="https://img.shields.io/badge/Figma-07111F?style=for-the-badge&logo=figma&logoColor=38EBF8" alt="Figma" />
+<img src="https://img.shields.io/badge/Git-07111F?style=for-the-badge&logo=git&logoColor=38EBF8" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-07111F?style=for-the-badge&logo=github&logoColor=38EBF8" alt="GitHub" />
+
+</p>
+
+### Conhecimentos complementares
+
+<p>
+
+<img src="https://img.shields.io/badge/Flutter-07111F?style=for-the-badge&logo=flutter&logoColor=38EBF8" alt="Flutter" />
+<img src="https://img.shields.io/badge/Python-07111F?style=for-the-badge&logo=python&logoColor=38EBF8" alt="Python" />
+
+</p>
+
+## ▸ Projetos
 
 <p align="center">
 
 <img
   src="https://www.gitskins.com/api/section/projects?username=pdrfranca&theme=neon"
-  alt="Featured Projects"
+  alt="Projetos em destaque de Pedro França"
 />
-
-</p>
-
-## <font color="#38EBF8">▸ GitHub</font>
-
-<p align="center">
-
-<img
-  src="https://www.gitskins.com/api/section/stats?username=pdrfranca&theme=neon"
-  alt="GitHub Stats"
-/>
-
-</p>
-
-
-## <font color="#38EBF8">▸ Vamos conversar?</font>
-
-<p align="center">
-
-Estou aberto a **oportunidades, projetos e conexões**
-<br>
-com pessoas da área de tecnologia.
 
 </p>
 
@@ -126,22 +114,51 @@ com pessoas da área de tecnologia.
 
 <a href="https://pdrfranca.github.io">
   <img
-    src="https://img.shields.io/badge/PORTFÓLIO-07111F?style=for-the-badge&logo=googlechrome&logoColor=38EBF8"
-    alt="Portfólio"
+    src="https://img.shields.io/badge/VER_PORTFÓLIO-07111F?style=for-the-badge&logo=googlechrome&logoColor=38EBF8"
+    alt="Ver portfólio"
   />
 </a>
+
+</p>
+
+---
+
+## ▸ GitHub
+
+<p align="center">
+
+<img
+  src="https://www.gitskins.com/api/section/stats?username=pdrfranca&theme=neon"
+  alt="Estatísticas do GitHub de Pedro França"
+/>
+
+</p>
+
+---
+
+## ▸ Objetivo profissional
+
+Estou em busca de uma oportunidade para atuar como **Desenvolvedor Front-end**, onde possa aplicar meus conhecimentos em **React, Next.js e TypeScript**, aprender com um time experiente e contribuir para a construção de produtos digitais de qualidade.
+
+Tenho interesse especialmente em ambientes que valorizem **boas práticas de desenvolvimento, experiência do usuário, colaboração e evolução contínua**.
+
+---
+
+## ▸ Vamos conversar?
+
+<p align="center">
+
+Se você quiser trocar uma ideia sobre tecnologia, projetos ou oportunidades,<br>
+fique à vontade para entrar em contato.
+
+</p>
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/pdrfranca/">
   <img
     src="https://img.shields.io/badge/LINKEDIN-07111F?style=for-the-badge&logo=linkedin&logoColor=38EBF8"
     alt="LinkedIn"
-  />
-</a>
-
-<a href="https://github.com/pdrfranca">
-  <img
-    src="https://img.shields.io/badge/GITHUB-07111F?style=for-the-badge&logo=github&logoColor=38EBF8"
-    alt="GitHub"
   />
 </a>
 
@@ -152,6 +169,7 @@ com pessoas da área de tecnologia.
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:38EBF8,25:1E9FC2,55:12617E,80:0B3048,100:07111F&height=110&section=footer"
   width="100%"
+  alt=""
 />
 
 </p>
