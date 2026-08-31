@@ -1,10 +1,12 @@
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:07111F,45:0B3B66,100:00BFFF&text=PEDRO%20FRAN%C3%87A&fontSize=64&fontColor=FFFFFF&fontAlign=50&descSize=18&descAlign=50&descAlignY=62&animation=fadeIn"
-    alt="Pedro França — Front-end Developer"
-    width="100%"
-  />
-</p>
+<div align="center">
+
+<picture>
+  <img src="./dark_mode.svg" alt="Pedro França — Front-end Developer" width="85%">
+</picture>
+
+</div>
+
+<br>
 
 <p align="center">
 
@@ -29,17 +31,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
-
-<div align="center">
-
-<picture>
-  <img src="./dark_mode.svg" alt="Pedro França — Front-end Developer" width="85%">
-</picture>
-
-</div>
-
-<br>
 
 ## 👋 Sobre mim
 
