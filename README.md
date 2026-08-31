@@ -14,26 +14,18 @@
 
 <p align="center">
 
-<a href="https://pdrfranca.github.io">
-  <img
-    src="https://img.shields.io/badge/PORTFÓLIO-07111F?style=for-the-badge&logo=googlechrome&logoColor=38EBF8"
-    alt="Portfólio"
-  />
-</a>
-
-<a href="https://github.com/pdrfranca">
-  <img
-    src="https://img.shields.io/badge/GITHUB-07111F?style=for-the-badge&logo=github&logoColor=38EBF8"
-    alt="GitHub"
-  />
-</a>
-
-<a href="https://www.linkedin.com/in/pdrfranca/">
-  <img
-    src="https://img.shields.io/badge/LINKEDIN-07111F?style=for-the-badge&logo=linkedin&logoColor=38EBF8"
-    alt="LinkedIn"
-  />
-</a>
+<img src="https://img.shields.io/badge/HTML5-07111F?style=for-the-badge&logo=html5&logoColor=38EBF8" />
+<img src="https://img.shields.io/badge/CSS3-07111F?style=for-the-badge&logo=css3&logoColor=38EBF8" />
+<img src="https://img.shields.io/badge/JavaScript-07111F?style=for-the-badge&logo=javascript&logoColor=38EBF8" />
+<img src="https://img.shields.io/badge/TypeScript-07111F?style=for-the-badge&logo=typescript&logoColor=38EBF8" />
+<img src="https://img.shields.io/badge/React-07111F?style=for-the-badge&logo=react&logoColor=38EBF8" />
+<img src="https://img.shields.io/badge/Next.js-07111F?style=for-the-badge&logo=next.js&logoColor=38EBF8" />
+<img src="https://img.shields.io/badge/Flutter-07111F?style=for-the-badge&logo=flutter&logoColor=38EBF8" />
+<img src="https://img.shields.io/badge/Python-07111F?style=for-the-badge&logo=python&logoColor=38EBF8" />
+<img src="https://img.shields.io/badge/Firebase-07111F?style=for-the-badge&logo=firebase&logoColor=38EBF8" />
+<img src="https://img.shields.io/badge/Figma-07111F?style=for-the-badge&logo=figma&logoColor=38EBF8" />
+<img src="https://img.shields.io/badge/Git-07111F?style=for-the-badge&logo=git&logoColor=38EBF8" />
+<img src="https://img.shields.io/badge/GitHub-07111F?style=for-the-badge&logo=github&logoColor=38EBF8" />
 
 </p>
 
@@ -61,18 +53,26 @@ acessíveis e performáticas.
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/HTML5-07111F?style=for-the-badge&logo=html5&logoColor=38EBF8" />
-<img src="https://img.shields.io/badge/CSS3-07111F?style=for-the-badge&logo=css3&logoColor=38EBF8" />
-<img src="https://img.shields.io/badge/JavaScript-07111F?style=for-the-badge&logo=javascript&logoColor=38EBF8" />
-<img src="https://img.shields.io/badge/TypeScript-07111F?style=for-the-badge&logo=typescript&logoColor=38EBF8" />
-<img src="https://img.shields.io/badge/React-07111F?style=for-the-badge&logo=react&logoColor=38EBF8" />
-<img src="https://img.shields.io/badge/Next.js-07111F?style=for-the-badge&logo=next.js&logoColor=38EBF8" />
-<img src="https://img.shields.io/badge/Flutter-07111F?style=for-the-badge&logo=flutter&logoColor=38EBF8" />
-<img src="https://img.shields.io/badge/Python-07111F?style=for-the-badge&logo=python&logoColor=38EBF8" />
-<img src="https://img.shields.io/badge/Firebase-07111F?style=for-the-badge&logo=firebase&logoColor=38EBF8" />
-<img src="https://img.shields.io/badge/Figma-07111F?style=for-the-badge&logo=figma&logoColor=38EBF8" />
-<img src="https://img.shields.io/badge/Git-07111F?style=for-the-badge&logo=git&logoColor=38EBF8" />
-<img src="https://img.shields.io/badge/GitHub-07111F?style=for-the-badge&logo=github&logoColor=38EBF8" />
+<a href="https://pdrfranca.github.io">
+  <img
+    src="https://img.shields.io/badge/PORTFÓLIO-07111F?style=for-the-badge&logo=googlechrome&logoColor=38EBF8"
+    alt="Portfólio"
+  />
+</a>
+
+<a href="https://github.com/pdrfranca">
+  <img
+    src="https://img.shields.io/badge/GITHUB-07111F?style=for-the-badge&logo=github&logoColor=38EBF8"
+    alt="GitHub"
+  />
+</a>
+
+<a href="https://www.linkedin.com/in/pdrfranca/">
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-07111F?style=for-the-badge&logo=linkedin&logoColor=38EBF8"
+    alt="LinkedIn"
+  />
+</a>
 
 </p>
 
