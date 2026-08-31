@@ -41,15 +41,6 @@
 
 </h2>
 
-<p align="center">
-
-<strong>
-Transformando ideias em interfaces digitais modernas,
-<br>
-acessíveis e performáticas.
-</strong>
-
-</p>
 
 <p align="center">
 
@@ -73,6 +64,20 @@ acessíveis e performáticas.
     alt="LinkedIn"
   />
 </a>
+
+</p>
+
+<p align="center">
+
+> **“Todos nascem como originais, mas muitos morrem como fotocópias.”**<br>
+> — *Carlo Acutis*
+
+Acredito que pessoas e marcas não foram feitas para serem cópias.
+
+Como Front-end Developer, transformo ideias, histórias e identidades em experiências digitais únicas — criando interfaces que não apenas funcionam, mas comunicam **quem você é**.
+
+Porque código pode ser replicado.
+**Identidade, não.**
 
 </p>
 
