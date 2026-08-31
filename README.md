@@ -1,34 +1,33 @@
-![Banner do Readme](https://github.com/pdrfranca/pdrfranca/blob/9e05008a825502c478c1558ff192b0b1cc29cd2b/assets/inBanner.png)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=pdrfranca&theme=neon" alt="Pedro França profile hero" />
+</p>
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Manrope&weight=500&pause=1000&color=2C79E0&width=435&lines=Programmer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Developer+%F0%9F%88%AF;Designer+%F0%9F%8E%A8)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/about?username=pdrfranca&theme=neon" alt="About Pedro França" />
+</p>
 
-# Hello World! 👋
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=pdrfranca&theme=neon" alt="Language stack" />
+</p>
 
-<img src="assets/frutoctocat.png" alt="Imagem à direita" align="right" width="200" style="margin-left: 20px;" />
+## 📊 GitHub Stats
 
-- 📚 I'm currently learning various aspects of technology and development.
-- 💬 Ask me about programming languages, tools, and technologies.
-- 📧 Reach me at my [email](mailto:pfrutopro@gmail.com).
-- 🌱 Always exploring new technologies and software development practices.
-- 👨‍💻 Passionate about building innovative solutions across different platforms.
-- 🚀 Open to contributing to exciting open-source projects.
-- 🔗 Check out my [personal portfolio](https://pdrfranca.github.io) for more details.
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=pdrfranca&theme=neon" alt="GitHub Stats" />
+</p>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=instagram&logoColor=2C79E0&link=https://www.instagram.com/pdr.frnc/)](https://www.instagram.com/pdr.frnc/)
-[![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=discord&logoColor=2C79E0&link=https://discord.gg/ztr6Z3qvCD)](https://discord.com/invite/3R9UxRSAQ4)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=pdrfranca&theme=neon" alt="pdrfranca featured projects" />
+</p>
 
-# Tecnologias 💻
+## 🤝 Connect With Me
 
-![HTML](https://img.shields.io/badge/html-5865F2?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-5865F2?style=for-the-badge&logo=CSS&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-5865F2?style=for-the-badge&logo=JavaScript&logoColor=white)
-![React](https://img.shields.io/badge/React-5865F2?style=for-the-badge&logo=React&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5865F2?style=for-the-badge&logo=node.js&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-5865F2?style=for-the-badge&logo=Dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-5865F2?style=for-the-badge&logo=Flutter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-5865F2?style=for-the-badge&logo=Python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-5865F2?style=for-the-badge&logo=mongodb&logoColor=white)
-![PHP](https://img.shields.io/badge/php-5865F2?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-5865F2?style=for-the-badge&logo=openjdk&logoColor=white)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=pdrfranca&theme=neon&website=https%3A%2F%2Fpdrfranca.github.io" alt="pdrfranca social links" />
+</p>
 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pdrfranca) [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pdrfranca.github.io)
+
+---
+
+<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>
