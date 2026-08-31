@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <img src="./dark_mode.svg" alt="Pedro França — Front-end Developer" width="85%">
+  <img src="./dark_mode.svg" alt="Pedro França — Front-end Developer" width="100%">
 </picture>
 
 </div>
