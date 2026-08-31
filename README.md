@@ -1,30 +1,82 @@
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=pdrfranca&theme=neon" alt="Pedro França profile hero" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:07111F,45:0B3B66,100:00BFFF&text=PEDRO%20FRAN%C3%87A&fontSize=64&fontColor=FFFFFF&fontAlign=50&descSize=18&descAlign=50&descAlignY=62&animation=fadeIn"
+    alt="Pedro França — Front-end Developer"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/about?username=pdrfranca&theme=neon" alt="About Pedro França" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,flutter,python,firebase,figma,git,github" />
+
+</p>
+
+<h2 align="center">Front-end Developer · React · Next.js · TypeScript</h2>
+
+<p align="center">
+  Transformando ideias em interfaces digitais modernas, acessíveis e performáticas.
 </p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=pdrfranca&theme=neon" alt="Language stack" />
+  <a href="https://pdrfranca.github.io">
+    <img src="https://img.shields.io/badge/🌐_Portfólio-4285F4?style=for-the-badge" alt="Portfólio">
+  </a>
+  <a href="https://github.com/pdrfranca">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/pdrfranca/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
-## 📊 GitHub Stats
+
+<div align="center">
+
+<picture>
+  <img src="./dark_mode.svg" alt="Pedro França — Front-end Developer" width="85%">
+</picture>
+
+</div>
+
+<br>
+
+## 👋 Sobre mim
+
+Sou **Pedro França**, estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor com foco em **Front-end**.
+
+Gosto de transformar ideias em produtos digitais que combinam **design, tecnologia e experiência do usuário**.
+
+Atualmente, meu foco está em construir projetos que demonstrem não apenas conhecimento de tecnologia, mas também capacidade de resolver problemas, tomar decisões de produto e entregar interfaces bem estruturadas.
+
+## 🛸 Projetos
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=pdrfranca&theme=neon" alt="Featured Projects" />
+</p>
+
+## 📊 GitHub
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/stats?username=pdrfranca&theme=neon" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=pdrfranca&theme=neon" alt="pdrfranca featured projects" />
-</p>
+## 🤝 Vamos conversar?
 
-## 🤝 Connect With Me
+Estou aberto a oportunidades, projetos e conexões com pessoas da área de tecnologia.
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=pdrfranca&theme=neon&website=https%3A%2F%2Fpdrfranca.github.io" alt="pdrfranca social links" />
+
+<a href="https://pdrfranca.github.io">
+  <img src="https://img.shields.io/badge/🌐_Portfólio-4285F4?style=for-the-badge" alt="Portfólio">
+</a>
+
+<a href="https://www.linkedin.com/in/pdrfranca/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://github.com/pdrfranca">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
 </p>
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pdrfranca) [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pdrfranca.github.io)
-
